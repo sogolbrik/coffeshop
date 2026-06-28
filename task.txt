@@ -1,0 +1,19 @@
+1. Personal Task Manager ⭐ (Paling direkomendasikan)
+
+Fitur:
+
+Login/Register
+CRUD Task
+Status (Todo, Progress, Done)
+Filter dan Search
+Notifikasi
+
+Yang bisa dicoba:
+
+Eloquent terbaru
+Validation
+Queue
+Event & Listener
+Notification
+Cache
+Authorization Policy
